@@ -4,8 +4,7 @@ var X = new BitArray(19, [1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1]),
     Y = new BitArray(22, [1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1]),
     Z = new BitArray(23, [1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0]);
 
-var j;
-var keyBits = [];
+var j, keyBits = [];
 for (j=0; j < 32; j++) {
     keyBits.push(getKeyBit().toString());
 }
