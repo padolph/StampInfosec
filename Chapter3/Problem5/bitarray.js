@@ -1,4 +1,3 @@
-/* BitArray DataType */
 
 // Constructor
 function BitArray(size, bits) {
@@ -161,4 +160,4 @@ BitArray._getLen = function (bitArray1, bitArray2, smallest) {
     return l1 > l2 ? smallest ? l2 : l1 : smallest ? l2 : l1;
 };
 
-module.exports.BitArray = BitArray;
+module.exports = BitArray;
