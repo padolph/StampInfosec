@@ -1,0 +1,57 @@
+Initial S:
+4c 46 51 0e 36 aa 27 24 14 00 70 80 42 7f a7 a9
+8e 94 0c 7d 7b 37 78 be af 09 c0 9b e2 0d 3c 6c
+04 ed 1f b8 a2 68 db 3f d6 76 ba bc c2 d5 3b ff
+39 2e 4e bd fa 18 b2 b1 86 6b fc 1e 73 5b 75 35
+1a 13 d7 ad 74 66 f7 b3 ac fb 07 ab e3 41 77 57
+53 84 98 e8 dd 31 11 a1 d2 16 82 72 f9 6a 40 33
+8c c4 99 02 cf 81 dc 5e 9c 5a b4 22 c1 5f cc 0b
+56 30 c7 7c 7a 9a 10 cd 4d 83 65 7e ee ce 71 34
+c8 62 fd 49 f4 9f bf 2a 8f 6d 1c 0a c9 ef e4 b9
+06 d8 3d 3a bb a8 b5 a4 c3 43 52 4b a0 05 a5 93
+90 ae 48 d4 a6 2d 6f a3 63 e1 8a 8d b0 5d b6 23
+ea 60 44 69 92 17 2f 0f 50 2b f5 f6 32 b7 29 01
+45 12 59 26 d3 c6 87 d9 e5 de 47 5c 6e cb 1d 58
+08 4f eb da 55 89 85 f0 e6 e7 f1 c5 03 f8 d0 38
+d1 fe e0 67 88 9d 25 ca ec 8b 19 21 15 28 f3 97
+79 20 df 91 61 4a 54 1b e9 9e 3e f2 64 2c 96 95
+
+Discarding 100 keystream bytes
+i = 100  j = 112
+S after the first 100 keystream bytes generated:
+4c f7 a4 2d c5 41 c4 3f 88 14 f9 55 70 ba 73 4e
+7c 3b 1a 42 ad 4f 6c 37 c8 6d fb 0c 87 da 9d 04
+d5 66 bc 67 aa 28 98 94 f8 e8 a8 c2 ab 00 fc 82
+3a 12 6b 6e e2 d0 06 13 d9 3c 72 e3 91 31 26 e9
+7d 75 5b b3 f6 78 5e 52 45 af 2a 6f d3 9f 11 0f
+dd e4 e5 a0 ed 77 8c 97 2e f0 85 08 53 7a 92 ca
+7b b0 93 ae 56 81 dc 46 9c 5a b4 22 c1 5f cc 0b
+cf 30 c7 8e 6a 9a 10 cd 4d 83 65 7e ee ce 71 34
+c0 62 fd 49 f4 a2 bf 07 8f 09 1c 0a c9 ef 84 b9
+b2 d8 3d 39 bb 7f b5 51 c3 43 d7 4b 76 05 a5 99
+90 02 48 d4 a6 0e 1f a3 63 e1 8a 8d 27 5d b6 23
+ea 60 44 69 40 17 2f 57 50 2b f5 74 32 b7 29 01
+ac d2 59 b1 1e c6 fa 86 db de 47 5c bd cb 1d 58
+24 be eb 0d 80 89 ff 16 e6 e7 f1 36 03 d6 18 38
+d1 fe e0 b8 9b a9 25 33 ec 8b 19 21 15 68 f3 a1
+79 20 df a7 61 4a 54 1b 35 9e 3e f2 64 2c 96 95
+
+Discarding 900 keystream bytes
+i = 200  j = 229
+S after the first 1000 keystream bytes generated:
+4c f7 c1 2d 02 41 b1 3f 88 5d 51 cd 70 ba 73 4e
+7c 3b 1a 46 ad 4f 6c 37 c8 6d fb 7e 87 a2 9d 84
+d4 66 bc 67 1e 49 98 2f f8 e8 8e c2 ab 00 9a 82
+3a 12 6b 6e e2 d0 06 13 d9 3c 72 e3 91 31 fd e9
+65 3d 6a b3 f6 ea 5e 52 45 af 2a 6f 48 9f 11 0f
+dd e4 69 a0 ed 59 8a 97 4d f0 c7 9c 53 7a 92 05
+7b b0 74 ae 56 20 cb 42 23 14 b7 38 90 95 5c ff
+0e 89 76 a8 bb fc b5 55 2e 36 ce f4 27 ac 57 04
+22 75 10 07 29 da 03 28 a3 b4 c3 b8 ee 4b 34 e6
+e7 93 99 ef 32 d2 26 86 b2 dc a6 b9 85 09 c5 62
+a4 a5 d3 d5 1b 60 a9 40 71 bd 8c 0a c9 5a 01 08
+78 fa 8b e5 fe 35 94 21 1d cf f3 d8 5b ca 0c be
+7d 64 77 c4 aa 19 9e f9 1f de 47 cc e1 43 50 58
+24 b6 eb 0d 80 30 0b 16 39 1c f1 83 bf d6 18 c0
+d1 8f e0 8d 9b db 25 33 ec 44 c6 63 15 68 f5 a1
+79 81 df a7 61 4a 54 d7 17 2b 3e f2 7f 2c 96 5f
