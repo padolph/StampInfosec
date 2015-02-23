@@ -54,17 +54,23 @@ function shiftReg(ba) {
     }
 }
 
-function maj(a) {
-    var res = a.reduce(function(r, i) {
-        var newR = r;
-        if (r.cnt == 0) {
-            newR.cand = i;
-            newR.cnt = 1;
-        }
-        else {
-            (i == r.cand) ? newR.cnt++ : newR.cnt--;
-        }
-        return newR;
-    }, {cand: undefined, cnt: 0})
-    return res.cand;
+// function maj(a) {
+//     var res = a.reduce(function(r, i) {
+//         var newR = r;
+//         if (r.cnt == 0) {
+//             newR.cand = i;
+//             newR.cnt = 1;
+//         }
+//         else {
+//             (i == r.cand) ? newR.cnt++ : newR.cnt--;
+//         }
+//         return newR;
+//     }, {cand: undefined, cnt: 0})
+//     return res.cand;
+// }
+
+// optimized boolean maj from Problem 6
+function maj(v) {
+    var a=v[0], b=v[1], c=v[2];
+    return (b && c) || (a && c) | (a && b);
 }
