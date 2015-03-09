@@ -1,3 +1,5 @@
+// TODO: run actual encrypt and use test vectors to check
+
 var key = new Buffer([0x1a, 0x2b, 0x3c, 0x4d, 0x5e, 0x6f, 0x77]),
 	N = key.length,
 	S = new Buffer(256),
