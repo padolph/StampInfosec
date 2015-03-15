@@ -1,3 +1,4 @@
+/* BitArray */
 
 // Constructor
 function BitArray(size, bits) {
