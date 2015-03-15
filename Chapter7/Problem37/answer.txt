@@ -1,0 +1,23 @@
+d(Alice, Bob)    : 0.453125
+d(Alice, Charlie): 0.609375
+d(Bob,   Charlie): 0.53125
+---------
+d(U, Alice)  : 0.5625
+d(U, Bob)    : 0.578125
+d(U, Charlie): 0.171875
+---------
+d(V, Alice)  : 0.453125
+d(V, Bob)    : 0.4375
+d(V, Charlie): 0.46875
+---------
+d(W, Alice)  : 0.15625
+d(W, Bob)    : 0.484375
+d(W, Charlie): 0.546875
+---------
+d(X, Alice)  : 0.515625
+d(X, Bob)    : 0.15625
+d(X, Charlie): 0.5625
+---------
+d(Y, Alice)  : 0.5
+d(Y, Bob)    : 0.421875
+d(Y, Charlie): 0.484375
