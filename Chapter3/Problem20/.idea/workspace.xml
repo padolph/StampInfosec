@@ -24,6 +24,7 @@
     <session id="-1880174869">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -94,7 +95,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="403" />
-    <option name="y" value="323" />
+    <option name="y" value="321" />
     <option name="width" value="2609" />
     <option name="height" value="1088" />
   </component>
@@ -167,15 +168,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536626821910</updated>
-      <workItem from="1536626823207" duration="12688000" />
+      <workItem from="1536626823207" duration="12690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12688000" />
+    <option name="totallyTimeSpent" value="12690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="403" y="323" width="2609" height="1088" extended-state="0" />
+    <frame x="403" y="321" width="2609" height="1088" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -190,7 +191,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39979446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979446" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
