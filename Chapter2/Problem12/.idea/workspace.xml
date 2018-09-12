@@ -13,7 +13,7 @@
     <session id="-1058167432">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="184">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -71,11 +71,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="82" />
-    <option name="y" value="57" />
-    <option name="width" value="1891" />
-    <option name="height" value="1138" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="99" />
+    <option name="y" value="563" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -166,15 +166,16 @@
       <updated>1535490095879</updated>
       <workItem from="1535490097290" duration="727000" />
       <workItem from="1535491507591" duration="10000" />
-      <workItem from="1535571826093" duration="683000" />
+      <workItem from="1535571826093" duration="1314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1420000" />
+    <option name="totallyTimeSpent" value="2051000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="99" y="563" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -185,7 +186,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -216,8 +217,8 @@
     <entry file="file://$PROJECT_DIR$/StampChapter1Problem12.iml" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="184">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
     </entry>
